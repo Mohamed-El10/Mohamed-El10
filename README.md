@@ -1,5 +1,5 @@
 ### Hi there 👋
-echo "# Mohamed-El10" >> README.md
+echo " Mohamed-El10" >> README.md
 
 git init
 git add README.md
